@@ -1,0 +1,50 @@
+/* ----- Global Styling ----- */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    color: #333;
+}
+
+/* ----- Header ----- */
+header {
+    background: #4b79a1;
+    color: white;
+    padding: 40px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+/* ----- Section & Cards ----- */
+section {
+    width: 80%;
+    margin: auto;
+    padding: 20px 0;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #4b79a1;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 25px;
+}
+
+/* ----- Footer ----- */
+footer {
+    background: #4b79a1;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
